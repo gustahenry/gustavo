@@ -2,11 +2,11 @@ import logo from "../assets/logo.png"
 
 function Header (){
     return(
-        <nav className="bg-primary w-screen h-[6.25rem] flex flex-row justify-between px-24 items-center border-b-4 border-solid border-bd">
-            <div className="w-52">
+        <nav className="bg-primary w-screen lg:h-[6.25rem] flex lg:flex-row flex-col justify-between space-y-10 lg:space-y-0 lg:px-24 px-8 items-center border-b-4 border-solid border-bd">
+            <div className="lg:w-52">
                 <img className="w-full" src={logo} alt="" />
             </div>
-            <ul className="text-white flex flex-row space-x-8 text-2xl font-bold">
+            <ul className="text-white flex flex-wrap flex-row space-x-8 text-2xl font-bold">
                 <a href="#hero"><li>Inicio</li></a>
                 <a href="#sobre"><li>Sobre</li></a>
                 <a href="#habilidades"><li>Habilidades</li></a>
