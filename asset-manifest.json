@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gustavo/static/css/main.ff08d25c.css",
+    "main.js": "/gustavo/static/js/main.048a7a41.js",
+    "static/media/Curriculo.pdf": "/gustavo/static/media/Curriculo.31aab49e5b110043ef50.pdf",
+    "static/media/image 38.png": "/gustavo/static/media/image 38.72cb888e5ba41cf2f022.png",
+    "static/media/React.png": "/gustavo/static/media/React.f45c29b719070ae46bed.png",
+    "index.html": "/gustavo/index.html",
+    "main.ff08d25c.css.map": "/gustavo/static/css/main.ff08d25c.css.map",
+    "main.048a7a41.js.map": "/gustavo/static/js/main.048a7a41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff08d25c.css",
+    "static/js/main.048a7a41.js"
+  ]
+}
