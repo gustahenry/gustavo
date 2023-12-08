@@ -8,7 +8,7 @@ import Sobre from './components/Sobre';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App font-montserrat">
       <Header/>
       <Hero/>
       <Sobre/>

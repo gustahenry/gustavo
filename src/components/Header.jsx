@@ -1,4 +1,4 @@
-import logo from "../assets/logo.png"
+import logo from "../assets/logo.svg"
 
 function Header (){
     return(
@@ -6,7 +6,7 @@ function Header (){
             <div className="lg:w-52">
                 <img className="w-full" src={logo} alt="" />
             </div>
-            <ul className="text-white flex flex-wrap flex-row space-x-8 text-2xl font-bold">
+            <ul className="text-white flex flex-wrap flex-row space-x-8 text-xl font-bold">
                 <a href="#hero"><li>Inicio</li></a>
                 <a href="#sobre"><li>Sobre</li></a>
                 <a href="#habilidades"><li>Habilidades</li></a>

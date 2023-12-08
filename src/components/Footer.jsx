@@ -2,7 +2,7 @@ import email from "../assets/Email.png";
 import whatsapp from "../assets/WhatsApp.png";
 import linkedin from "../assets/LinkedIn.png";
 import github from "../assets/GitHub.png";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.svg";
 
 function Footer (){
     return(

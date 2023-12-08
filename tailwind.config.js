@@ -10,6 +10,9 @@ module.exports = {
         'card': '#42424C',
         'footer': '#07080D',
       },
+      fontFamily: {
+        'montserrat': ['Montserrat, sans-serif']
+      },
     },
   },
   plugins: [],
