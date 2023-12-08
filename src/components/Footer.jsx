@@ -7,7 +7,7 @@ import logo from "../assets/logo.svg";
 function Footer (){
     return(
             <footer id="footer" className="w-screen lg:h-80 bg-footer border-t-4 border-solid border-bd lg:p-24 p-8 space-y-28">
-                <div className="flex flex-wrap lg:space-x-48 justify-center">
+                <div className="flex lg:space-x-48 justify-center">
                     <a className="m-3 lg:m-0" href="mailto:ghgoncalves430@gmail.com"><img src={email} alt="" /></a>
                     <a className="m-3 lg:m-0" href="https://api.whatsapp.com/send?phone=5511987652242" target="_blank"><img src={whatsapp} alt="" /></a>
                     <a className="m-3 lg:m-0" href="https://www.linkedin.com/in/pcasemiro/" target="_blank"><img src={linkedin} alt="" /></a>
