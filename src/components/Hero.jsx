@@ -7,9 +7,9 @@ function Hero (){
                 <div className="flex lg:flex-row flex-col space-y-14 lg:space-y-0 justify-between items-center">
                     <div className="text-white space-y-8">
                         <div className="space-y-2">
-                            <p className="text-2xl font-bold">Olá, eu sou</p>
-                            <h1 className="text-5xl font-bold text-h1" >Gustavo Henrique</h1>
-                            <h2 className=" text-4xl font-bold">Desenvolvedor Full Stack</h2>
+                            <p className="lg:text-2xl text-xl font-bold">Olá, eu sou</p>
+                            <h1 className="lg:text-5xl text-4xl font-bold text-h1" >Gustavo Henrique</h1>
+                            <h2 className=" lg:text-4xl text-3xl font-bold">Desenvolvedor Full Stack</h2>
                         </div>
                         <div className="bg-bd h-12 w-60 rounded-3xl flex items-center justify-center font-semibold">
                             <a href={pdf} target="_blank"><p>Download CV</p></a>
