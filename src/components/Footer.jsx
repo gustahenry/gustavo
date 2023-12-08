@@ -11,7 +11,7 @@ function Footer (){
                     <a className="m-3 lg:m-0" href="mailto:ghgoncalves430@gmail.com"><img src={email} alt="" /></a>
                     <a className="m-3 lg:m-0" href="https://api.whatsapp.com/send?phone=5511987652242" target="_blank"><img src={whatsapp} alt="" /></a>
                     <a className="m-3 lg:m-0" href="https://www.linkedin.com/in/pcasemiro/" target="_blank"><img src={linkedin} alt="" /></a>
-                    <a className="m-3 lg:m-0" href="https://github.com/pcasemiro" target="_blank"><img src={github} alt="" /></a>
+                    <a className="m-3 lg:m-0" href="https://github.com/gustahenry" target="_blank"><img src={github} alt="" /></a>
                 </div>
                 <div className="flex justify-between items-center">
                     <div className="w-36">
