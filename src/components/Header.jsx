@@ -18,7 +18,7 @@ function Header (){
             <ul
         className={`${
           menuOpen ? 'flex' : 'hidden'
-        } text-white lg:flex flex-wrap lg:flex-row flex-col lg:space-x-8 text-xl font-bold text-center space-y-4 lg:space-y-0 pb-2 lg:pb-0`}
+        } text-white lg:flex flex-wrap lg:flex-row flex-col transition ease-in-out delay-500 lg:space-x-8 text-xl font-bold text-center space-y-4 lg:space-y-0 pb-2 lg:pb-0`}
       >
                 <a href="#hero"><li>Inicio</li></a>
                 <a href="#sobre"><li>Sobre</li></a>
