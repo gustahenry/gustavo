@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/gustavo/static/css/main.96fc620b.css",
-    "main.js": "/gustavo/static/js/main.a495ff91.js",
+    "main.css": "/gustavo/static/css/main.aea60085.css",
+    "main.js": "/gustavo/static/js/main.a1d7c027.js",
     "static/media/Curriculo.pdf": "/gustavo/static/media/Curriculo.62fcab1a654d39e0aaf8.pdf",
+    "static/media/act.png": "/gustavo/static/media/act.c677c3e8e09fc3d9bdbe.png",
     "static/media/image 38.png": "/gustavo/static/media/image 38.72cb888e5ba41cf2f022.png",
     "static/media/React.png": "/gustavo/static/media/React.f45c29b719070ae46bed.png",
     "static/media/logo.svg": "/gustavo/static/media/logo.0bcba6bbf48d1fe594fbdd345fb67dd6.svg",
     "index.html": "/gustavo/index.html",
-    "main.96fc620b.css.map": "/gustavo/static/css/main.96fc620b.css.map",
-    "main.a495ff91.js.map": "/gustavo/static/js/main.a495ff91.js.map"
+    "main.aea60085.css.map": "/gustavo/static/css/main.aea60085.css.map",
+    "main.a1d7c027.js.map": "/gustavo/static/js/main.a1d7c027.js.map"
   },
   "entrypoints": [
-    "static/css/main.96fc620b.css",
-    "static/js/main.a495ff91.js"
+    "static/css/main.aea60085.css",
+    "static/js/main.a1d7c027.js"
   ]
 }
